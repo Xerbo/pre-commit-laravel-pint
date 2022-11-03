@@ -1,0 +1,6 @@
+- id: laravel-pint
+  name: check php formatting
+  description: Checks formatting of PHP code with laravel pint
+  entry: laravel-pint
+  language: python
+  types: [php]
