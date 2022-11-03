@@ -4,3 +4,4 @@
   entry: laravel-pint
   language: python
   types: [php]
+  exclude: ^resources/views
